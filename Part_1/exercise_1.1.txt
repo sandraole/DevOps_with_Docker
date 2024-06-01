@@ -1,1 +1,9 @@
-Exercise 1.1: Getting started
+EXERCISE 1.1: GETTING STARTED
+
+Output for "docker ps -a":
+
+CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS                      PORTS     NAMES
+56ac6523e2cb   nginx     "/docker-entrypoint.…"   About a minute ago   Exited (0) 29 seconds ago             dazzling_allen
+4e23bb20bda4   nginx     "/docker-entrypoint.…"   About a minute ago   Exited (0) 11 seconds ago             elated_swirles
+2bde2c25cde9   nginx     "/docker-entrypoint.…"   2 minutes ago        Up About a minute           80/tcp    sweet_tharp
+
